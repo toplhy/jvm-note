@@ -19,4 +19,4 @@ JVM学习笔记
 
 [9.枚举根节点、安全点、安全区域](./9.枚举根节点、安全点、安全区域.md)
 
-[10.垃圾收集器-Serial、ParNew、Parallel Scavenge](./10.垃圾收集器-Serial、ParNew、Parallel Scavenge.md)
+[10.垃圾收集器1](10.垃圾收集器1.md)
