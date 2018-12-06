@@ -32,3 +32,5 @@ JVM学习笔记
 [15.JDK命令行工具-jps](./15.JDK命令行工具-jps.md)
 
 [16.JDK命令行工具-jstat](./16.JDK命令行工具-jstat.md)
+
+[17.JDK命令行工具-jinfo](./17.JDK命令行工具-jinfo.md)
