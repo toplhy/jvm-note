@@ -36,3 +36,7 @@ JVM学习笔记
 [17.JDK命令行工具-jinfo](./17.JDK命令行工具-jinfo.md)
 
 [18.JDK命令行工具-jmap](./18.JDK命令行工具-jmap.md)
+
+[19.JDK命令行工具-jhat](./19.JDK命令行工具-jhat.md)
+
+[20.JDK命令行工具-jstack](./20.JDK命令行工具-jstack.md)
