@@ -40,3 +40,7 @@ JVM学习笔记
 [19.JDK命令行工具-jhat](./19.JDK命令行工具-jhat.md)
 
 [20.JDK命令行工具-jstack](./20.JDK命令行工具-jstack.md)
+
+[21.JDK可视化工具-JConsole](./21.JDK可视化工具-JConsole.md)
+
+[22.JDK可视化工具-VisualVM](./22.JDK可视化工具-VisualVM.md)
